@@ -38,3 +38,7 @@ The Horiseon webpage screenshot can be found here - url (./assets/capture.png)  
 
 https://ndaruwalla.github.io/homework_031321/
 
+## Link to github repository
+https://github.com/NDaruwalla/homework_031321
+
+
